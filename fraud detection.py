@@ -28,7 +28,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "DATASET LINK (for local machine): https://www.kaggle.com/datasets/chitwanmanchanda/fraudulent-transactions-data"
+    "DATASET LINK (for local machine): https://www.kaggle.com/datasets/fraudulent-transactions-data"
    ]
   },
   {
